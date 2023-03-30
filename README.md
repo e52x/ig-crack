@@ -9,3 +9,8 @@
 - git clone https://github.com/e52x/ig-crack
 - cd ig-crack
 - python main.py
+
+
+
+
+![image](https://user-images.githubusercontent.com/73192109/228712451-57cd6137-faca-4651-a901-3167dd6ca42d.png)
